@@ -1,0 +1,145 @@
+/*
+Lav services
+*/
+.lav-boost.lav-boost-service-products {
+  margin-bottom: 15px;
+  clear: both;
+  overflow: unset;
+  text-align: left;
+
+  .services-list {
+    padding: 15px 15px 0 15px;
+  }
+
+  .services-list-item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-content: center;
+    position: relative;
+
+    input {
+      padding: 0;
+      height: initial;
+      width: initial;
+      margin-bottom: 0;
+      display: none !important;
+      cursor: pointer;
+    }
+    label {
+      position: relative;
+      cursor: pointer;
+      font-weight: 500;
+      &:before {
+        content:'';
+        -webkit-appearance: none;
+        background-color: transparent;
+        border: 1px solid $lav-boost-main;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+        padding: 6px;
+        display: inline-block;
+        position: relative;
+        vertical-align: middle;
+        cursor: pointer;
+        margin-right: 5px;
+        margin-bottom: 3px;
+      }
+    }
+    input:checked + label:after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 1px;
+      left: 4px;
+      width: 6px;
+      height: 14px;
+      border: solid $lav-boost-main;
+      border-width: 0 2px 2px 0;
+      transform: rotate(45deg);
+    }
+
+  }
+
+  .up-sell-products-desc {
+    @include adaptive-p(16, 16, 16);
+    padding: 15px 15px 0 15px;
+    margin-bottom: 0;
+    text-align: left;
+    line-height: 23px;
+  }
+  .up-sell-products-title {
+    text-align: left;
+    @include adaptive-headings(22,22,22);
+    background: $lav-boost-opacity;
+    padding: 15px 20px;
+    margin-bottom: 0;
+  }
+
+  .service-price {
+    margin-bottom: 5px;
+  }
+
+  .tooltip-container {
+    display: inline;
+  }
+
+  .tooltip {
+    display: inline-block;
+
+    &:hover {
+      opacity: 1;
+    }
+
+    .tooltiptext {
+      visibility: hidden;
+      width: max-content;
+      max-width: 100%;
+      background-color: rgba(5, 32, 71, 0.80);
+      color: $white;
+      border-radius: 0;
+      padding: 20px;
+      position: absolute;
+      z-index: 1;
+      top: 100%;
+      left: 0;
+      margin-top: -10px;
+      opacity: 0;
+      transition: opacity 0.3s;
+    }
+
+  }
+
+  .tooltip-icon {
+    position: relative;
+    width: 15px;
+    height: 15px;
+    line-height: 14px;
+    text-align: center;
+    border: 1px #8ba5af solid;
+    border-radius: 100%;
+    color: #8ba5af;
+    vertical-align: middle;
+    font-size: 13px;
+
+    &:after {
+      visibility: hidden;
+      content: "";
+      position: absolute;
+      bottom: -1px;
+      margin-left: -9px;
+      border-width: 6px;
+      border-style: solid;
+      border-color: #555 transparent transparent transparent;
+      transform: rotate(180deg);
+    }
+  }
+
+  .tooltip:hover .tooltiptext, .lav-boost-service-products .tooltip:hover .tooltip-icon:after {
+    visibility: visible;
+    opacity: 1;
+    z-index: 10;
+  }
+
+}
+
+

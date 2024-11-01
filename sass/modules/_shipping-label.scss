@@ -1,0 +1,77 @@
+/*
+Shipping progress
+*/
+
+.lav-boost.lav-boost-shipping-label {
+  margin: 20px 0;
+  text-align: center;
+  border-radius: 0;
+  border: 1px solid $lav-boost-opacity;
+  padding-bottom: 10px;
+
+  .shipping-label-title{
+    @include adaptive-headings(22,22,22);
+    background: $lav-boost-opacity;
+    padding: 15px 20px;
+    margin-bottom: 0;
+  }
+  .shipping-label-description{
+    margin: 10px 0;
+    text-align: center;
+    &.active{
+      padding-top: 10px;
+    }
+  }
+
+  .progress-bar-wrapper{
+    padding: 15px 20px 0 20px;
+  }
+
+  .progress-bar {
+    width: 100%;
+    height: 8px;
+    background-color: #f1f1f1;
+    border-radius: 0;
+    overflow: hidden;
+    position: relative;
+    margin: 20px 0;
+  }
+  .progress {
+    width: 0;
+    height: 100%;
+    background-color: $lav-boost-wc__color-success;
+    transition: width 0.3s ease-in-out;
+    position: relative;
+
+    &:after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: linear-gradient(45deg, rgba(255, 255, 255, 0.15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, 0.15) 50%, rgba(255, 255, 255, 0.15) 75%, transparent 75%, transparent);
+      background-size: 200% 100%;
+      animation: stripesAnimation 2s linear infinite;
+      z-index: 1;
+      transform: translateX(-100%);
+    }
+  }
+}
+
+
+
+@keyframes stripesAnimation {
+  0% {
+    transform: translateX(-100%);
+  }
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+.lav-boost-shipping-label h4 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+

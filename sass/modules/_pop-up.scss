@@ -1,0 +1,369 @@
+/*PopupS*/
+.lav-boost.popupS-base{
+  .popupS-layer {
+    position: relative;
+    border-radius: 0;
+    background-color: $white;
+    margin: 20px;
+    z-index: 1000;
+  }
+  .popupS-title {
+    @include adaptive-headings(22,22,22);
+    padding: 20px;
+    background: $lav-boost-wc__color-success;
+    color: $white;
+    position: relative;
+    &:before{
+      content: url("../img/check-icon.svg");
+      display: inline;
+      width: 25px;
+      height: 25px;
+      margin-right: 10px;
+      vertical-align: middle;
+    }
+  }
+
+  .popupS-close {
+    position: absolute;
+    top: 0;
+    right: 5px;
+    font-weight: 300;
+    font-size: 33px;
+    cursor: pointer;
+    color: $white;
+    z-index: 1;
+    padding: 10px;
+    opacity: 0.7;
+  }
+
+  .popupS-content {
+    max-width: 550px;
+    padding: 37px 22px 22px 22px;
+    border-radius: 0;
+  }
+
+  .wc-forward {
+    @include lav-btn-outline();
+   &:after{
+     display: none;
+   }
+  }
+
+  .wc-checkout-page {
+    @include lav-btn-default();
+    margin-right: 15px;
+  }
+
+  .lav-pop-up-title{
+    margin: 40px 0 10px 0;
+    padding: 15px;
+    background: $lav-boost-opacity;
+  }
+
+  .popupS-buttons {
+    margin-top: 15px;
+    padding-top: 15px;
+    border-top: 1px solid $lav-boost-opacity;
+  }
+
+
+  .popupS-buttons button {
+    @include lav-btn-outline();
+    font-family: $lav-boost-main-font;
+  }
+  a:focus, button:focus, .button.alt:focus, input:focus, textarea:focus, input[type="button"]:focus, input[type="reset"]:focus, input[type="submit"]:focus, input[type="email"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="password"]:focus, input[type="search"]:focus {
+    outline: none;
+  }
+  .product {
+    width: 100%;
+    position: relative;
+  }
+  .product-columns-3{
+    .product {
+      width: 33%;
+      position: relative;
+    }
+  }
+  .product-columns-2{
+    .product {
+      width: 50%;
+      position: relative;
+    }
+  }
+  .section-products {
+     min-width: 200px;
+      margin-top: 15px;
+   }
+
+  .popupS-resetFocus {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+  }
+
+  .popupS-content img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .star-rating {
+    float: unset;
+    margin: 5px 0;
+    &:before{
+      color: $lav-boost-wc__color-stars;
+    }
+  }
+
+  .product {
+    &:hover{
+      .add-to-cart-overlay {
+        display: flex;
+        animation: reveal 500ms cubic-bezier(0.77, 0, 0.175, 1);
+      }
+    }
+  }
+
+  .add-to-cart-overlay {
+    animation: reveal 500ms cubic-bezier(0.77, 0, 0.175, 1);
+    position: absolute;
+    display: none;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 1px solid rgba(13, 52, 57, 0.00);
+    background: rgba(5, 32, 71, 0.70);
+    z-index: 3;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .button{
+      background: none;
+      border: 1px solid $white;
+      font-size: 12px;
+      &:hover{
+        background: $white;
+        color: $lav-boost-main;
+        box-shadow: inset -5.0em 0 0 0 $white,
+        inset 5.0em 0 0 0 $white;
+        font-size: 12px;
+      }
+    }
+    .button, .wc-forward {
+      padding: 5px 15px;
+    }
+    a.wc-forward {
+      background: none;
+      box-shadow: none;
+      color: $white;
+      border: none;
+      font-size: 12px;
+      &:hover{
+        background: none;
+        color: $white;
+        border: none;
+        font-size: 12px;
+      }
+      &:not(:hover){
+        &:visited {
+          color: $white;
+          font-size: 12px;
+        }
+      }
+    }
+    a:focus, .read-more{
+      color: $white;
+    }
+
+  }
+}
+
+/*
+ * Default Animation
+ */
+
+.popupS-layer {
+  -webkit-transition: opacity .3s;
+  -o-transition: opacity .3s;
+  transition: opacity .3s;
+  opacity: 0;
+}
+
+.popupS-overlay {
+  -webkit-transition: opacity .3s ease;
+  -o-transition: opacity .3s ease;
+  transition: opacity .3s ease;
+  background: rgb(0, 0, 0);
+  opacity: 0;
+}
+
+.popupS-layer.popupS-open {
+  opacity: 1;
+}
+
+.popupS-open > .popupS-overlay {
+  opacity: .6;
+}
+
+
+
+
+/* Loader */
+
+@-moz-keyframes spinner {
+  to {
+    -moz-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@-o-keyframes spinner {
+  to {
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+
+@-webkit-keyframes spinner {
+  to {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spinner {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@-moz-keyframes pulsate {
+  0% {
+    -moz-transform: scale(.1);
+    transform: scale(.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    -moz-transform: scale(1.2);
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+
+@-o-keyframes pulsate {
+  0% {
+    -o-transform: scale(.1);
+    transform: scale(.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    -o-transform: scale(1.2);
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+
+@-webkit-keyframes pulsate {
+  0% {
+    transform: scale(.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+
+@keyframes pulsate {
+  0% {
+    transform: scale(.1);
+    opacity: 0.0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.2);
+    opacity: 0;
+  }
+}
+
+.popupS-loading {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-top: -15px;
+  margin-left: -15px;
+  border-radius: 30px;
+}
+
+.popupS-loading.pulser {
+  border: 3px solid #1caff6;
+  opacity: 0;
+  -moz-animation: pulsate 1s ease-out infinite;
+  -o-animation: pulsate 1s ease-out infinite;
+  -webkit-animation: pulsate 1s ease-out infinite;
+  animation: pulsate 1s ease-out infinite;
+}
+
+.popupS-loading.spinner {
+  border-top: 3px solid #1caff6;
+  border-right: 3px solid transparent;
+  -moz-animation: spinner .6s linear infinite;
+  -o-animation: spinner .6s linear infinite;
+  -webkit-animation: spinner .6s linear infinite;
+  animation: spinner .6s linear infinite;
+}
+
+
+.animation-reveal {
+  animation: reveal 1s cubic-bezier(0.77, 0, 0.175, 1);
+}
+
+@keyframes reveal {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .lav-boost.popupS-base {
+    height: auto;
+    .list-products {
+      display: block;
+    }
+    .product {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+    .wc-checkout-page{
+      margin-bottom: 20px;
+      display: block;
+      width: 100%;
+      text-align: center;
+    }
+    .wc-cart-page, button.popupS-button-ok{
+      display: block;
+      width: 100%;
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,2297 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LavBoost Lite - All in One WooCommerce Related Products\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-21 14:10+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.3.1\n"
+"X-Domain: up-sell-pro"
+
+#: modules/7-bundle/LavBoostModuleBundle.php:418
+msgid " Add Bundle to Cart"
+msgstr ""
+
+#: modules/6-viewing/LavBoostModuleViewing.php:52
+#: modules/6-viewing/LavBoostModuleViewing.php:87
+#: modules/6-viewing/LavBoostModuleViewing.php:98
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: modules/6-viewing/LavBoostModuleViewing.php:52
+#: modules/6-viewing/LavBoostModuleViewing.php:87
+#: modules/6-viewing/LavBoostModuleViewing.php:98
+#, php-format
+msgid "%2$s"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:112
+#, php-format
+msgid "(Deal) %s"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:104
+#, php-format
+msgid "- %1$s%2$s Bundle Discount"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:92
+msgid "2"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:93
+msgid "3"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:94
+msgid "4"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:95
+msgid "5"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:96
+msgid "6"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:149
+msgid "Abigail"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:92
+#: modules/9-6-donation/LavBoostModuleDonation.php:61
+#: modules/9-6-donation/LavBoostModuleDonation.php:87
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:72
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:98
+#: modules/9-8-2-services/LavBoostModuleServices.php:107
+#: modules/9-8-2-services/LavBoostModuleServices.php:134
+msgid "Access denied"
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:136
+msgid "Accessories"
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:202
+msgid "Accessories data"
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:151
+msgid "Accessories place"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:425
+msgid "Add at least {remaining} more to get free shipping!"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:451
+msgid "Add Bundle"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:436
+msgid "Add Discount"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:341
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:514
+msgid "Add discount condition"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:228
+msgid "Add Donation"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:110
+msgid "Add marketing text"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:146
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:330
+msgid "Add Notice"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:187
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:253
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:181
+msgid "Add products if relations are empty or didn't match"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:254
+msgid "Add products if relations are empty or don't match"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:407
+msgid "Add Promo Product"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:253
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:186
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:252
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:180
+msgid "Add random relations"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:37
+#: modules/2-relations/LavBoostModuleRelations.php:86
+msgid "Add Relation"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:334
+msgid "Add service"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:61
+#: modules/3-related/LavBoostModuleRelated.php:220
+#: modules/7-accessories/LavBoostModuleAccessories.php:59
+#: modules/7-accessories/LavBoostModuleAccessories.php:194
+#: modules/7-bundle/LavBoostModuleBundle.php:235
+msgid "Add to cart"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:203
+msgid "Add to order"
+msgstr ""
+
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:164
+msgid "Add to order Email"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:139
+msgid "After cart"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:137
+msgid "After content"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:292
+msgid "After meta"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:293
+msgid "After price"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:187
+#: modules/7-accessories/LavBoostModuleAccessories.php:153
+#: modules/7-bundle/LavBoostModuleBundle.php:396
+msgid "After product"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:188
+#: modules/7-accessories/LavBoostModuleAccessories.php:154
+#: modules/7-bundle/LavBoostModuleBundle.php:397
+msgid "After summary"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:138
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:133
+msgid "After table"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:148
+msgid "Aiden"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:154
+msgid "Alexander"
+msgstr ""
+
+#. Author of the plugin
+msgid "AliceThemes"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:315
+msgid "All products"
+msgstr ""
+
+#: app/modules/LavBoostModuleMultipleAddToCart.php:55
+#: modules/7-bundle/LavBoostModuleBundle.php:155
+msgid "All products were added to your cart."
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:141
+msgid "Amelia"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:413
+msgid "Amount placeholder"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:239
+msgid "and more: "
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:180
+msgid "Andrew"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:178
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:381
+msgid "Any"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:175
+msgid "Aria"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:191
+msgid "Audrey"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:133
+msgid "Ava"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:899
+msgid "Available: "
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:159
+msgid "Avery"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:690
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:723
+msgid "Background"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:598
+msgid "Background Color"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:767
+msgid "Background color"
+msgstr ""
+
+#: modules/9-9-9-backup/LavBoostModuleBackup.php:26
+#: modules/9-9-9-backup/LavBoostModuleBackup.php:31
+msgid "Backup"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:397
+msgid "Badge"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:398
+msgid "Badge to show"
+msgstr ""
+
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:132
+msgid "Before table"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:178
+msgid "Benjamin"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:743
+msgid "Border Radius"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:107
+msgid "Branding"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:108
+msgid "Branding And Identity Design Services"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:186
+msgid "Brandon"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:380
+msgid "Bundle"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:463
+msgid "Bundle discount"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:394
+msgid "Bundle place"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:503
+msgid "Bundle products"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:434
+#: modules/7-bundle/LavBoostModuleBundle.php:448
+msgid "Bundles"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:639
+msgid "Button"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:647
+msgid "Button Alignment"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:219
+#: modules/7-accessories/LavBoostModuleAccessories.php:193
+#: modules/7-bundle/LavBoostModuleBundle.php:417
+msgid "Button text"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:249
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:260
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:162
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:156
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:187
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:195
+msgid "Buying together often"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:140
+msgid ""
+"By default, widget shows countdown base on Sale price dates of product. You "
+"can enable fake timer (always shows 12 hours)"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:118
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:127
+msgid ""
+"By default, widget shows real progress bar based on stock status, you can "
+"enable fake bar if set up \"Sold\" quantity"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:360
+msgid "Cart"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:218
+msgid "Cart link"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:120
+msgid "Cart Page"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:234
+msgid "Cart value for gift"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:235
+msgid "Cart value to get free gift"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:176
+msgid "Carter"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:241
+#: modules/7-accessories/LavBoostModuleAccessories.php:205
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:174
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:240
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:168
+#: modules/9-8-2-services/LavBoostModuleServices.php:362
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:494
+msgid "Categories"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:407
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:452
+msgid "Category"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:209
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:170
+msgid "Category relations"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:229
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:292
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:383
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:546
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:656
+msgid "Center"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:139
+msgid "Charlotte"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:106
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:359
+msgid "Checkout"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:227
+msgid "Checkout link"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:305
+msgid "Checkout Promo"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:163
+msgid "Chloe"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:239
+msgid "Choose"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:182
+msgid "Choose pages where show social proofs"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:461
+msgid "Choose product"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:157
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:341
+msgid "Choose products"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:227
+msgid "Choose products for donations"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:333
+msgid "Choose products for services"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:192
+msgid "Choose your gift product"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:204
+msgid "Chose which data type need add on Order Page"
+msgstr ""
+
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:165
+msgid "Chose which data type need to add on Order Email"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:190
+msgid "Christian"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:256
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:325
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:343
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:677
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:709
+msgid "Color"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:172
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:375
+msgid "Condition"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:144
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:328
+#: modules/9-8-2-services/LavBoostModuleServices.php:332
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:338
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:511
+msgid "Conditions"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:145
+msgid "Conditions to show notices"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:329
+msgid "Conditions to show promo offer"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:39
+msgid "Contact"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:53
+msgid "Content"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:88
+msgid "Continue shopping"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:568
+msgid "Countdown"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:58
+msgid "Curie"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:316
+msgid "Custom"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:391
+msgid "Custom threshold"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:269
+msgid "Custom title(default is product title)"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:211
+#: modules/7-accessories/LavBoostModuleAccessories.php:185
+msgid "Customers often buy together with this product"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:164
+msgid "Daniel"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:165
+msgid "Dark"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:113
+msgid "Data"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:61
+msgid "Data source"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:269
+#: modules/7-accessories/LavBoostModuleAccessories.php:221
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:202
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:268
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:237
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:198
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:196
+msgid "Date"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:174
+msgid "David"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:845
+msgid "Days"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:104
+msgid "Deal of the day"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:370
+msgid "Default shipping zone"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:194
+msgid "Delay (ms)"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:612
+msgid "Delimiter Color"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:92
+#: modules/9-6-donation/LavBoostModuleDonation.php:61
+#: modules/9-6-donation/LavBoostModuleDonation.php:87
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:72
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:98
+#: modules/9-8-2-services/LavBoostModuleServices.php:107
+#: modules/9-8-2-services/LavBoostModuleServices.php:134
+msgid "Denied"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:144
+msgid "Develop A New Plugin, Finalize The Theme"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:587
+msgid "Digits Color"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:174
+msgid "Disable Button"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:465
+msgid "Disable if Local pickup is chosen"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:162
+msgid "Disable product price"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:150
+msgid "Disable product title"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:559
+msgid "Discount message"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:462
+msgid "Discount name"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:395
+msgid "Discount priority"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:396
+msgid "Discount priority to set up with condition has priority"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:313
+msgid "Discount rule"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:548
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:458
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:366
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:447
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:534
+msgid "Discount type"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:540
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:469
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:377
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:545
+msgid "Discount value"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:434
+msgid "Discounts"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:435
+msgid "Discounts rules"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:107
+msgid "Display toasts with recent sales or fake data"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:37
+msgid "Documentation"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:270
+msgid "Donate"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:55
+msgid "Donate has been added to your cart"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:226
+msgid "Donate products"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:189
+msgid "Donation"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:179
+msgid "Eleanor"
+msgstr ""
+
+#: modules/9-8-9-elementor/LavBoostModuleElementor.php:63
+msgid "Elementor"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:138
+msgid "Elijah"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:155
+msgid "Elizabeth"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:157
+msgid "Ella"
+msgstr ""
+
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:158
+msgid "Email"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:151
+msgid "Emily"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:129
+msgid "Emma"
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:142
+msgid "Enable Accessories"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:185
+msgid "Enable autorotate?"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:386
+msgid "Enable bundles"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:311
+msgid "Enable checkout promo"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:382
+msgid "Enable Custom threshold"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:195
+msgid "Enable donation"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:443
+msgid "Enable Free shipping message"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:182
+msgid "Enable Gift Product"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:127
+msgid "Enable notice"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:179
+msgid "Enable Pop Up"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:282
+msgid "Enable Quantity Discount"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:176
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:126
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:121
+msgid "Enable related products"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:287
+msgid "Enable services"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:348
+msgid "Enable Shipping Label"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:104
+msgid "Enable Social Proof"
+msgstr ""
+
+#: modules/6-viewing/LavBoostModuleViewing.php:112
+msgid "Enable Viewing & Sales"
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:143
+msgid "Enable\\Disable Accessories products section on the single product page"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:387
+msgid "Enable\\Disable bundles section on single product page"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:312
+msgid "Enable\\Disable checkout promo on the checkout page"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:196
+msgid "Enable\\Disable donation buttons on checkout page"
+msgstr ""
+
+#: modules/6-viewing/LavBoostModuleViewing.php:113
+msgid "Enable\\Disable fake Viewing & Sales message."
+msgstr ""
+
+#: modules/9-8-9-elementor/LavBoostModuleElementor.php:71
+msgid "Enable\\Disable flash sale add-on"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:349
+msgid "Enable\\Disable Free Shipping Label"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:183
+msgid ""
+"Enable\\Disable Gift Product. Note: Add Gift product to your shop with 0 "
+"price -> Enable Catalog visibility: Hidden"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:466
+msgid "Enable\\Disable if Local pickup is chosen"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:128
+msgid "Enable\\Disable New Order Email notice for client"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:444
+msgid "Enable\\Disable Qualified for free shipping message"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:283
+msgid "Enable\\Disable Quantity Discount"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:180
+msgid ""
+"Enable\\Disable related products Pop up after click add to cart on Shop page"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:127
+msgid "Enable\\Disable related products section on Cart page"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:177
+msgid "Enable\\Disable related products section on single product page"
+msgstr ""
+
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:122
+msgid "Enable\\Disable related products section on Thank you page"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:296
+msgid "Enable\\Disable services name changing"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:288
+msgid "Enable\\Disable services on the single product page"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:105
+msgid "Enable\\Disable toasts with Social Proof."
+msgstr ""
+
+#: modules/1-general/LavBoostModuleGeneral.php:94
+msgid "Enable\\Disable tracing of user's search queries on the website"
+msgstr ""
+
+#: modules/1-general/LavBoostModuleGeneral.php:115
+msgid "Enable\\Disable tracking of viewed products"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:146
+msgid "Ethan"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:185
+msgid "Eva"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:147
+msgid "Evelyn"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:177
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:380
+msgid "Every"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:128
+msgid "Fake data available only paid version - "
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:116
+msgid "Fakes"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:550
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:460
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:368
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:536
+msgid "Fixed"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:28
+msgid "Flash Sale"
+msgstr ""
+
+#: modules/9-8-9-elementor/LavBoostModuleElementor.php:70
+msgid "Flash sale"
+msgstr ""
+
+#: modules/9-8-9-elementor/LavBoostModuleElementor.php:79
+msgid "Flash sale addon available only paid version - "
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"For customers who need to set up the most popular and effective tools to "
+"increase sales simple products in the WooCommerce store in a few clicks."
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:36
+msgid ""
+"For customers who need to set up the most popular and effective tools to "
+"increase sales simple products in the WooCommerce store in a few clicks. "
+"LavBoost - the All in One Sales Increasing Plugin."
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:405
+msgid "Free delivery on orders over {free_shipping_amount}"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:452
+msgid "Free shipping message"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:229
+msgid "Full price: "
+msgstr ""
+
+#: modules/1-general/LavBoostModuleGeneral.php:86
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:759
+msgid "General"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:176
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:191
+msgid "Gift Product"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:221
+msgid "Gift product place"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:169
+msgid "Grace"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:173
+msgid "Hannah"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:145
+msgid "Harper"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:152
+msgid "Harry"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:242
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:201
+msgid "Headings"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:32
+msgid "Help"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:26
+msgid "Help & Info"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:210
+msgid "Helping for kids"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:352
+msgid "Helping with installation and set up"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:156
+msgid "Henry"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:399
+msgid "Hot"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:846
+msgid "Hours"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:338
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:704
+msgid "Hover"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://first-design-company.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://first-design-company.com/plugins/lavboost-the-all-in-one-sales-"
+"increasing-woocommerce-plugin/"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:111
+msgid "Hurry Up! Offer ends soon."
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:803
+msgid "Image Border Radius"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:819
+msgid "Image Shadow"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:188
+msgid "Interval"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:135
+msgid "Isabella"
+msgstr ""
+
+#: modules/1-general/LavBoostModuleGeneral.php:96
+msgid ""
+"It helps better understand what users looked for in the shop before placing "
+"an order"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:35
+msgid ""
+"It helps to create mass relations between categories (for example: laptops->"
+"mouses, cases and etc.)"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:84
+msgid ""
+"It helps to create mass relations between tags (for example: electronics->"
+"cables, supplies and etc.)"
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:145
+msgid ""
+"It shows accessories products for current item and help suggest to user "
+"relevant products"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:185
+msgid "It shows Gift Products on a single product page"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:130
+msgid "It shows notice in new order email"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:182
+msgid ""
+"It shows Up-sell\\Cross-sell products after click Add to cart button and "
+"help suggest to user relevant products on Shop Page"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:129
+msgid ""
+"It shows Up-sell\\Cross-sell products for added to Cart items and help "
+"suggest to user relevant products on Cart Page"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:179
+msgid ""
+"It shows Up-sell\\Cross-sell products for the current item and helps suggest "
+"to user-relevant products"
+msgstr ""
+
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:124
+msgid ""
+"It shows Up-sell\\Cross-sell products on Thank you page and help suggest to "
+"user relevant products"
+msgstr ""
+
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:166
+msgid ""
+"It shows Up-sell\\Cross-sell recommendation and search query in Order Email "
+"to help you suggest smartly additional products  if you call to customer to "
+"confirm the order"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:205
+msgid ""
+"It shows Up-sell\\Cross-sell recommendation and search query in Order Page "
+"to help you suggest smartly additional products  if you call to customer to "
+"confirm the order"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:150
+msgid "Jackson"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:158
+msgid "Jacob"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:134
+msgid "James"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:168
+msgid "Joseph"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:160 app/data/LavBoostDataLoader.php:182
+msgid "Joshua"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:92 app/data/LavBoostDataLoader.php:201
+msgid "just now"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:188
+msgid "Justin"
+msgstr ""
+
+#: modules/1-general/LavBoostModuleGeneral.php:102
+msgid "Keep queries"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:406
+msgid "Label"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:576
+msgid "Label Color"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:27
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:128
+#: modules/6-viewing/LavBoostModuleViewing.php:121
+#: modules/7-accessories/LavBoostModuleAccessories.php:166
+#: modules/7-bundle/LavBoostModuleBundle.php:441
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:137
+#: modules/9-6-donation/LavBoostModuleDonation.php:218
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:320
+#: modules/9-8-2-services/LavBoostModuleServices.php:304
+#: modules/9-8-2-services/LavBoostModuleServices.php:324
+#: modules/9-8-9-elementor/LavBoostModuleElementor.php:48
+#: modules/9-8-9-elementor/LavBoostModuleElementor.php:79
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:327
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:417
+#: modules/9-9-7-styles/LavBoostModuleStyles.php:32
+msgid "LavBoost"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:187
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:117
+msgid "LavBoost Info"
+msgstr ""
+
+#. Name of the plugin
+msgid "LavBoost Lite - All in One WooCommerce Related Products"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:70
+msgid "LavRel"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:60
+#: modules/9-9-help/LavBoostModuleHelp.php:72
+#: modules/9-9-help/LavBoostModuleHelp.php:84
+#: modules/9-9-help/LavBoostModuleHelp.php:97
+#: modules/9-9-help/LavBoostModuleHelp.php:109
+#: modules/9-9-help/LavBoostModuleHelp.php:121
+#: modules/9-9-help/LavBoostModuleHelp.php:133
+#: modules/9-9-help/LavBoostModuleHelp.php:145
+msgid "Learn more"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:223
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:225
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:288
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:379
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:542
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:652
+msgid "Left"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:151
+msgid "Left Bottom"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:170
+msgid "Levi"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:128
+msgid "Liam"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:164
+msgid "Light"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:181
+msgid "Lila"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:177
+msgid "Lily"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:144
+msgid "Logan"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:140
+msgid "Lucas"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:153
+msgid "Madison"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:47
+#: modules/9-8-2-services/LavBoostModuleServices.php:371
+msgid "Main category"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:469
+msgid "Main product"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:96
+#: modules/9-8-2-services/LavBoostModuleServices.php:401
+msgid "Main tag"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:203
+msgid "Make a donation?"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:64
+msgid "Manual selected"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:505
+msgid "Marketing text"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:142
+msgid "Mason"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:166
+msgid "Matthew"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:194
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:414
+msgid "Message"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:143
+msgid "Mia"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:162
+msgid "Michael"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:357
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:525
+msgid "Min Qty"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:847
+msgid "Minutes"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:270
+#: modules/7-accessories/LavBoostModuleAccessories.php:222
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:203
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:269
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:238
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:199
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:197
+msgid "Modified"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:121
+msgid "New Order Email"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:184
+msgid "Nicholas"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:190
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:256
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:184
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:110
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:120
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:129
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:142
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:187
+msgid "No"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:130
+msgid "Noah"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:183
+msgid "Nora"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:320
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:672
+msgid "Normal"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:126
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:168
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:88
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:135
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:141
+msgid "Nothing to show"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:153
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:165
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:177
+msgid "Off"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:210
+msgid "Often buy together"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:136
+msgid "Oliver"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:131
+msgid "Olivia"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:152
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:164
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:176
+msgid "On"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:415
+msgid ""
+"One time offer! Get this product with HUGE discount right now! Click the "
+"checkbox above to add this product to your order. Get it now, because you "
+"won't have this chance again."
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:38
+msgid "online documentation"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:196
+msgid "Order"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:266
+#: modules/7-accessories/LavBoostModuleAccessories.php:218
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:199
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:265
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:234
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:195
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:193
+msgid "Order by"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:115
+msgid "Orders"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:44
+msgid "Other products"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:175
+msgid "Pages"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:551
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:461
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:369
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:537
+msgid "Percent"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:149
+msgid "Place"
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:158
+msgid "Place to put accessories products section for product detail page"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:401
+msgid "Place to put bundles section on single product page"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:364
+msgid "Place to put Free Shipping Label"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:143
+msgid "Place to put related products section for Cart page"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:192
+msgid "Place to put related products section for product detail page"
+msgstr ""
+
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:137
+msgid "Place to put related products section on Thank you page"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:40
+msgid "Please ask any question via contact form on"
+msgstr ""
+
+#: up-sell-pro.php:52
+msgid "Please deactivate LavBoost Lite version and run LavBoost"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:173
+msgid "Pop Up"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:88
+msgid "Posts quantity"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:366
+msgid "Price"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:374
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:537
+msgid "Price Alignment"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:228
+#: modules/7-bundle/LavBoostModuleBundle.php:426
+msgid "Price description"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:121
+msgid "Price: "
+msgstr ""
+
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:83
+msgid "price: "
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:406
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:451
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:460
+msgid "Product"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:87
+msgid "Product has been added"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:201
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:66
+#: modules/9-8-2-services/LavBoostModuleServices.php:101
+msgid "Product has been added to your cart"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:80
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:91
+#: modules/9-8-2-services/LavBoostModuleServices.php:127
+msgid "Product has been removed from your cart"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:275
+msgid "Product title"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:238
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:74
+msgid "Products"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:156
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:340
+msgid "Products in order"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:96
+msgid "Professional Web Design & Development Services"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:132
+msgid "Professional Website Maintenance & Support"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:487
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:513
+msgid "Progress color"
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:422
+msgid "Promo product"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:208
+msgid "purchased"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:220
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:229
+msgid "Put link text here"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:221
+#: modules/7-accessories/LavBoostModuleAccessories.php:195
+#: modules/7-bundle/LavBoostModuleBundle.php:419
+msgid "Put text for button here"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:230
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:209
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:219
+#: modules/7-bundle/LavBoostModuleBundle.php:428
+#: modules/7-bundle/LavBoostModuleBundle.php:464
+#: modules/7-bundle/LavBoostModuleBundle.php:561
+msgid "Put text here"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:212
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:250
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:261
+#: modules/7-accessories/LavBoostModuleAccessories.php:186
+#: modules/7-bundle/LavBoostModuleBundle.php:410
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:163
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:202
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:211
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:157
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:188
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:196
+#: modules/9-6-donation/LavBoostModuleDonation.php:204
+#: modules/9-6-donation/LavBoostModuleDonation.php:211
+#: modules/9-6-donation/LavBoostModuleDonation.php:271
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:406
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:426
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:454
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:390
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:391
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:400
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:408
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:416
+#: modules/9-8-2-services/LavBoostModuleServices.php:346
+#: modules/9-8-2-services/LavBoostModuleServices.php:353
+msgid "Put title text here"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:276
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:305
+msgid "Quantity Discount"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:290
+msgid "Quantity Discount place"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:223
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:184
+msgid "Quantity of items"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:198
+#: modules/7-accessories/LavBoostModuleAccessories.php:172
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:149
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:188
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:143
+#: modules/9-8-2-services/LavBoostModuleServices.php:311
+msgid "Quantity of Products"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:133
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:214
+msgid "Quantity Range Discount"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:268
+#: modules/7-accessories/LavBoostModuleAccessories.php:220
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:201
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:267
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:236
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:197
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:195
+msgid "Random"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:345
+msgid "Recommended services"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:170
+msgid "Related"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:147
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:57
+msgid "Related by Categories"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:146
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:56
+msgid "Related by Tags"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:59
+#: modules/9-8-2-services/LavBoostModuleServices.php:384
+msgid "Related categories"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:108
+#: modules/9-8-2-services/LavBoostModuleServices.php:415
+msgid "Related tags"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:20
+msgid "Relation"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:33
+msgid "Relation by categories"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:82
+msgid "Relation by tags"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:237
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:170
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:236
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:164
+#: modules/9-8-2-services/LavBoostModuleServices.php:358
+msgid "Relation data"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:185
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:135
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:130
+msgid "Relation place"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:71
+msgid "Religion & Church, Non-Profit Fast WordPress Theme"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:433
+msgid "Remaining placeholder"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:120
+msgid "Revamp And Redesign Of An Existing Website"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:224
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:233
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:296
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:387
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:550
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:660
+msgid "Right"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:152
+msgid "Right Bottom"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:171
+msgid "Riley"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:187
+msgid "Ruby"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:320
+msgid "Rules to apply discounts"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:425
+msgid "Sale price color"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:65
+msgid "Sale products"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:78
+#: modules/3-related/LavBoostModuleRelated.php:112
+#: modules/7-accessories/LavBoostModuleAccessories.php:81
+#: modules/7-bundle/LavBoostModuleBundle.php:269
+#: modules/7-bundle/LavBoostModuleBundle.php:307
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:83
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:133
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:78
+msgid "Sale!"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:172
+msgid "Samuel"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:189
+msgid "Savannah"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:560
+msgid "Save 10% when bought together"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:165
+msgid "Scarlett"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:149
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:157
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:207
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:59
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:168
+msgid "Search queries"
+msgstr ""
+
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:35
+msgid "Search queries: "
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:848
+msgid "Seconds"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:781
+msgid "Section Border Radius"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:209
+msgid "Section Description"
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:209
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:424
+#: modules/9-8-2-services/LavBoostModuleServices.php:351
+msgid "Section description"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:795
+msgid "Section Shadow"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:210
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:247
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:258
+#: modules/7-accessories/LavBoostModuleAccessories.php:184
+#: modules/7-bundle/LavBoostModuleBundle.php:408
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:161
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:200
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:155
+#: modules/9-6-donation/LavBoostModuleDonation.php:202
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:404
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:389
+#: modules/9-8-2-services/LavBoostModuleServices.php:344
+msgid "Section title"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:60
+#: modules/9-8-2-services/LavBoostModuleServices.php:385
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:495
+msgid "Select categories"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:49
+#: modules/9-8-2-services/LavBoostModuleServices.php:373
+msgid "Select category"
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:174
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:377
+msgid "Select condition"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:195
+#: modules/7-bundle/LavBoostModuleBundle.php:473
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:161
+#: modules/9-6-donation/LavBoostModuleDonation.php:243
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:345
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:427
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:464
+msgid "Select product"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:504
+msgid "Select products"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:98
+#: modules/9-8-2-services/LavBoostModuleServices.php:403
+msgid "Select tag"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:109
+#: modules/9-8-2-services/LavBoostModuleServices.php:416
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:479
+msgid "Select tags"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:449
+msgid "Select type"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:281
+msgid "Services"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:295
+msgid "Services names"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:117
+msgid "Set sold bar:"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:139
+msgid "Set timer"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:339
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:512
+msgid "Set up conditions"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:189
+msgid "Set up interval between notifications"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:449
+msgid "Set up the bundles"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:150
+msgid "Set up the max number of related products for on Cart page"
+msgstr ""
+
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:185
+msgid ""
+"Set up the max number of related products for Order Email for every data type"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:224
+msgid ""
+"Set up the max number of related products for Order Page for every data type"
+msgstr ""
+
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:189
+msgid "Set up the max number of related products for Pop up"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:199
+msgid "Set up the max number of related products for the current item"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:312
+msgid "Set up the max number of services on a single product page"
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:173
+msgid "Set up the number of Accessories for current item"
+msgstr ""
+
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:144
+msgid "Set up the number of related products for on Thank you page"
+msgstr ""
+
+#: modules/1-general/LavBoostModuleGeneral.php:103
+msgid "Set up the number of the latest search queries to keep"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:34
+msgid "Set up the relations between products categories"
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:83
+msgid "Set up the relations between products tags"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:244
+#: modules/7-accessories/LavBoostModuleAccessories.php:208
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:177
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:243
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:171
+msgid "Set up which data use for related products"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:364
+msgid "Set up which data use for services items"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:342
+msgid "Shipping Label"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:357
+msgid "Shipping Label place"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:178
+msgid "Shop Archive"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:83
+msgid "Simple and Fast WordPress Theme For Authors And Writers"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:177
+msgid "Single Product"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:98
+msgid "Social Proof"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:161
+msgid "Sofia"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:454
+msgid "Sold bar"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:895
+msgid "Sold: "
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:176
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:379
+msgid "Some"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:137
+msgid "Sophia"
+msgstr ""
+
+#: up-sell-pro.php:128
+msgid ""
+"Sorry, LavBoost plugin works only with Woocommerce plugin. Please, "
+"deactivate LavBoost plugin or activate Woocommerce plugin"
+msgstr ""
+
+#. Product title.
+#: app/modules/LavBoostModuleMultipleAddToCart.php:64
+#: modules/7-bundle/LavBoostModuleBundle.php:164
+#, php-format
+msgid "Sorry, the following product could not be added to the cart: \"%s\""
+msgstr ""
+
+#. Product title.
+#: app/modules/LavBoostModuleMultipleAddToCart.php:70
+#: modules/7-bundle/LavBoostModuleBundle.php:170
+#, php-format
+msgid "Sorry, the following products could not be added to the cart: \"%s\""
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:399
+msgid "Standard price color"
+msgstr ""
+
+#: modules/9-9-7-styles/LavBoostModuleStyles.php:25
+msgid "Styles"
+msgstr ""
+
+#: modules/9-9-7-styles/LavBoostModuleStyles.php:32
+msgid "Styles settings available only paid version - "
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:408
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:453
+msgid "Tag"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:210
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:171
+msgid "Tag relations"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:240
+#: modules/7-accessories/LavBoostModuleAccessories.php:204
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:173
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:239
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:167
+#: modules/9-8-2-services/LavBoostModuleServices.php:361
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:478
+msgid "Tags"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:217
+msgid "Text after verification icon"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:462
+msgid "Text color"
+msgstr ""
+
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:115
+msgid "Thank You Page"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:297
+msgid "The place to put the discount table on a single product page"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:228
+msgid "The place to put the product section on a single product page"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:162
+msgid "Theme"
+msgstr ""
+
+#: modules/6-viewing/LavBoostModuleViewing.php:121
+msgid "This feature available only paid version - "
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:392
+msgid "This will be used only to determine if we should show the bar / label"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:383
+msgid "This will ignore free shipping threshold in WooCommerce settings"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:373
+msgid ""
+"This zone's free shipping threshold will be used only if customer didn't "
+"already enter address."
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:924
+msgid "Time is end"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:206
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:186
+#: modules/9-6-donation/LavBoostModuleDonation.php:268
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:304
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:103
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:212
+msgid "Title"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:207
+msgid "Title after user name"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:220
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:283
+msgid "Title Alignment"
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:307
+msgid "Title for the discount table on a single product page"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:252
+msgid "Title if the total cart is less than 50% of gift value"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:263
+msgid "Title if the total cart is more than 50% of gift value"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:248
+msgid "Title if total cart is less than 50% of gift value"
+msgstr ""
+
+#: modules/4-gift-product/LavBoostModuleGiftProduct.php:259
+msgid "Title if total cart is more than 50% of gift value"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:409
+msgid "Together cheaper"
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:427
+msgid "Total price: "
+msgstr ""
+
+#: modules/1-general/LavBoostModuleGeneral.php:93
+msgid "Track search"
+msgstr ""
+
+#: modules/1-general/LavBoostModuleGeneral.php:114
+msgid "Track viewed products"
+msgstr ""
+
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:126
+msgid "Use fake data for sold bar:"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:120
+msgid "Use sales for social proofs or fake data"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:59
+msgid "Useful and Fast WordPress Theme For Authors And Writers"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:38
+msgid "Useful documentation you can find via link"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:216
+msgid "Verification text"
+msgstr ""
+
+#: modules/5-social-proof/LavBoostModuleSocialProof.php:218
+msgid "verified"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:167
+msgid "Victoria"
+msgstr ""
+
+#: app/modules/LavBoostModuleMultipleAddToCart.php:56
+#: modules/7-bundle/LavBoostModuleBundle.php:156
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:107
+msgid "View cart"
+msgstr ""
+
+#: modules/3-related/LavBoostModuleRelated.php:242
+#: modules/7-accessories/LavBoostModuleAccessories.php:206
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:175
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:241
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:169
+msgid "Viewed"
+msgstr ""
+
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:148
+#: modules/9-2-order-recommendation/LavBoostModuleOrderRecommendation.php:208
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:58
+#: modules/9-3-order-email/LavBoostModuleOrderEmail.php:169
+msgid "Viewed products"
+msgstr ""
+
+#: modules/6-viewing/LavBoostModuleViewing.php:106
+msgid "Viewing & Sales"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:307
+msgid "Waiting for Free Shipping coupon"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:40
+msgid "Website"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:95
+msgid "Website Design"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:131
+msgid "Website Maintenance"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:119
+msgid "Website Redesign"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:82
+msgid "WellBook"
+msgstr ""
+
+#: app/data/LavBoostDataLoader.php:132
+msgid "William"
+msgstr ""
+
+#: modules/9-9-help/LavBoostModuleHelp.php:143
+msgid "WordPress Tweaks & Fix"
+msgstr ""
+
+#: modules/8-cart-related/LavBoostModuleCartRelated.php:189
+#: modules/9-1-pop-up-related/LavBoostModulePopUpRelated.php:255
+#: modules/9-4-thank-you-page/LavBoostModuleThankYouPage.php:183
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:119
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:128
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:141
+#: includes/elementor-addons/widgets/class-elementor-lav-boost-flash-sale.php:186
+msgid "Yes"
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:324
+msgid ""
+"You can add only one condition if you need more conditions so please buy "
+"paid version - "
+msgstr ""
+
+#: modules/9-6-donation/LavBoostModuleDonation.php:218
+msgid ""
+"You can add only one donate if you need more donations so please buy paid "
+"version - "
+msgstr ""
+
+#: modules/9-5-new-order-messages/LavBoostModuleNewOrderMessages.php:137
+msgid ""
+"You can add only one notice if you need more notices so please buy paid "
+"version - "
+msgstr ""
+
+#: modules/9-8-1-checkout-promo/LavBoostModuleCheckoutPromo.php:320
+msgid ""
+"You can add only one promo item if you need more promo items so please buy "
+"paid version - "
+msgstr ""
+
+#: modules/9-8-2-services/LavBoostModuleServices.php:304
+msgid ""
+"You can add up to 2 services if you need more services so please buy paid "
+"version - "
+msgstr ""
+
+#: modules/7-bundle/LavBoostModuleBundle.php:441
+msgid ""
+"You can add up to 3 bundles if you need more bundles so please buy paid "
+"version - "
+msgstr ""
+
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:327
+#: modules/9-8-quantity-discount/LavBoostModuleQuantityDiscount.php:417
+msgid ""
+"You can add up to 3 conditions if you need more conditions so please buy "
+"paid version - "
+msgstr ""
+
+#: modules/2-relations/LavBoostModuleRelations.php:27
+msgid ""
+"You can add up to 5 relations for every type if you need more relations so "
+"please buy paid version - "
+msgstr ""
+
+#: modules/7-accessories/LavBoostModuleAccessories.php:166
+msgid ""
+"You can add up to 6 accessories if you need more accessories so please buy "
+"paid version - "
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:453
+msgid "You have free shipping!"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:414
+msgid "{free_shipping_amount}"
+msgstr ""
+
+#: modules/9-7-shipping-label/LavBoostModuleFreeShippingLabel.php:434
+msgid "{remaining}"
+msgstr ""

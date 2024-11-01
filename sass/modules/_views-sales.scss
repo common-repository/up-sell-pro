@@ -1,0 +1,47 @@
+/*
+Lav views and sales
+*/
+.lav-boost.product-marketing-data {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+
+  .sales-message {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    img{
+      margin: 0 5px;
+    }
+  }
+  .viewing-count, .sales-count {
+    margin: 0 5px;
+    font-weight: 500;
+  }
+  .viewing-message {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  }
+  .viewing-message img {
+    width: 24px;
+    height: 24px;
+    animation-name: blink;
+    animation-timing-function: linear;
+    animation-duration: 1.5s;
+    animation-iteration-count: infinite;
+  }
+
+  .sales-message img {
+    width: 20px;
+    height: 20px;
+  }
+
+  @keyframes blink {
+    50% {
+      opacity: 0;
+    }
+  }
+}

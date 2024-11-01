@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'Jost';
+  src: url('../webfonts/Jost-Regular.woff2') format('woff2'),
+  url('../webfonts/Jost-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Jost';
+  src: url('../webfonts/Jost-Light.woff2') format('woff2'),
+  url('../webfonts/Jost-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Jost';
+  src: url('../webfonts/Jost-SemiBold.woff2') format('woff2'),
+  url('../webfonts/Jost-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Jost';
+  src: url('../webfonts/Jost-Medium.woff2') format('woff2'),
+  url('../webfonts/Jost-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+body {
+  --lav-boost-main-font: 'Jost', sans-serif;
+}
+// stylelint-disable value-keyword-case
+$lav-boost-main-font: var(--lav-boost-main-font);
+
+// stylelint-enable value-keyword-case
+$font__code: monaco, consolas, "Andale Mono", "DejaVu Sans Mono", monospace;
+$font__pre: "Courier 10 Pitch", courier, monospace;
+$font__line-height-body: 1.5;
+$font__line-height-pre: 1.6;

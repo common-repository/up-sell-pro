@@ -1,0 +1,32 @@
+.lav-boost{
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6{
+		clear: both;
+		font-family: $lav-boost-main-font;
+		font-weight: 500;
+		color: $lav-boost-main;
+	}
+	h2 {
+		@include adaptive-headings(32, 28, 28);
+	}
+	h3 {
+		@include adaptive-headings(28, 26, 26);
+	}
+	h4 {
+		@include adaptive-headings(18, 18, 18);
+	}
+	h5 {
+		@include adaptive-headings(17, 17, 17);
+	}
+	h6 {
+		@include adaptive-headings(16, 16, 16);
+	}
+}
+
+
+
+

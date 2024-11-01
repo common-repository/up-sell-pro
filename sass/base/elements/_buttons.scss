@@ -1,0 +1,25 @@
+.lav-boost{
+  .button,.button.alt, button.button.single_add_to_cart_button.alt:disabled[disabled],
+  button.button.single_add_to_cart_button.alt:disabled,
+  input[type="button"],
+  input[type="reset"],
+  input[type="submit"] {
+    @include lav-btn-default();
+    border: unset;
+
+    &:active,
+    &:focus {
+      border-color: $color__border-button-focus;
+    }
+  }
+
+  .elementor {
+    .full-width-btn {
+      .elementor-button {
+        width: 100%;
+        text-align: left;
+      }
+    }
+  }
+
+}

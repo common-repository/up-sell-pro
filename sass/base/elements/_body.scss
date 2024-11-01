@@ -1,0 +1,7 @@
+body {
+  .lav-boost{
+    font-family: $lav-boost-main-font;
+    color: $lav-boost-main;
+    @include adaptive-p(16, 16, 16);
+  }
+}

@@ -1,0 +1,56 @@
+/*
+Lav social proofs
+*/
+.lav-boost.social-proofs.iziToast {
+  border-radius: 0;
+  border: none;
+  box-shadow: 0 4px 30px $lav-boost-card-shadow;
+  &:after{
+    box-shadow: none;
+  }
+  &>.iziToast-body{
+    .iziToast-title{
+      @include adaptive-p(14, 14, 14);
+      font-weight: 500;
+    }
+  }
+  &>.iziToast-body .iziToast-message{
+    strong{
+      @include adaptive-p(14, 14, 14);
+      font-weight: 300;
+    }
+    .proof-text, .proof-date{
+      @include adaptive-p(11, 11, 11);
+      font-weight: 300;
+    }
+    .proof-text{
+      color: $lav-boost-wc__color-success;
+      img{
+        display: inline;
+      }
+    }
+  }
+
+  &.iziToast-theme-light{
+    background: $white;
+    &>.iziToast-body{
+      .iziToast-title{
+        color: $lav-boost-main;
+      }
+    }
+    &>.iziToast-body .iziToast-message{
+
+      strong{
+        color: $lav-boost-main;
+      }
+
+      .proof-text, .proof-date{
+        color: $lav-boost-main;
+      }
+      .proof-text{
+        color: $lav-boost-wc__color-success;
+      }
+    }
+
+  }
+}

@@ -1,0 +1,114 @@
+// Center block
+@mixin center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+$maxWidth: 1400;
+
+@mixin adaptive-headings($pcSize, $tabletSize, $mobSize) {
+  font-size: $pcSize  + px;
+  line-height: calc(#{$pcSize  + px} + 9px);
+
+  @media (max-width: 768px){
+    font-size: $tabletSize  + px;
+    line-height: calc(#{$tabletSize  + px} + 9px);
+  }
+
+  @media (max-width: 360px){
+    font-size: $mobSize  + px;
+    line-height: calc(#{$mobSize  + px} + 9px);
+  }
+}
+
+@mixin adaptive-p($pcSize: 14, $tabletSize: 14, $mobSize: 14) {
+  font-size: $pcSize  + px;
+  font-weight: 400;
+  @media (max-width: 768px){
+    font-size: $tabletSize  + px;
+  }
+
+  @media (max-width: 360px){
+    font-size: $mobSize  + px;
+  }
+}
+
+// Buttons
+@mixin lav-btn-default {
+  @include transition();
+  @include adaptive-p(16, 16, 16);
+  background-color: $lav-boost-accent;
+  padding: 12px 35px;
+  font-size: 16px;
+  font-weight: 400;
+  font-style: normal;
+  text-transform: uppercase;
+  color: $white;
+  text-decoration: none;
+  width: fit-content;
+  border: 1px solid $lav-boost-accent;
+  &:hover {
+    color: $white;
+    opacity: 0.9;
+    background-color: $lav-boost-main;
+    @include transition();
+  }
+  &:visited {
+    color: $white;
+  }
+}
+@mixin lav-btn-outline {
+  @include transition();
+  @include adaptive-p(16, 16, 16);
+  background-color: $white;
+  border: 1px solid $lav-boost-accent;
+  padding: 12px 35px;
+  font-size: 16px;
+  font-style: normal;
+  text-transform: uppercase;
+  color: $lav-boost-accent;
+  text-decoration: none;
+  width: fit-content;
+  &:hover {
+    color: $white;
+    box-shadow: inset -5.0em 0 0 0 $lav-boost-accent,
+    inset 5.0em 0 0 0 $lav-boost-accent;
+    background-color: $lav-boost-accent;
+    @include transition();
+  }
+  &:not(:hover){
+    &:visited {
+      color: $lav-boost-accent;
+    }
+  }
+
+}
+
+@mixin lav-btn-default-blue-to-white {
+  @include transition();
+  @include adaptive-p(16, 16, 16);
+  background-color: $lav-boost-accent;
+  padding: 12px 35px;
+  font-size: 16px;
+  font-style: normal;
+  text-transform: uppercase;
+  color: $white;
+  text-decoration: none;
+  border: 1px solid $lav-boost-accent;
+  &:hover {
+    color: $lav-main;
+    border: 1px solid $lav-boost-accent;
+    box-shadow: inset -5.0em 0 0 0 $white,
+    inset 5.0em 0 0 0 $white;
+    background-color: $white;
+    @include transition();
+  }
+  &:visited {
+    color: $white;
+  }
+}
+
+@mixin transition {
+  transition: all 0.3s ease-in-out;
+}
+

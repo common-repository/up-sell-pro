@@ -1,0 +1,40 @@
+/*
+ accessories slider
+*/
+
+.lav-boost.accessories-products {
+
+  .accessories-slider {
+    width: 100%;
+    position: relative;
+    padding-right: 10px;
+  }
+
+  input[type="checkbox"] {
+    cursor: pointer;
+  }
+
+  .swiper-wrapper {
+    padding: 20px 0;
+    .swiper-slide {
+      height: auto;
+    }
+  }
+  .swiper-container {
+    height: auto;
+  }
+  .section-products,  .ac-navigation {
+    position: relative;
+  }
+
+}
+
+.up-sell-products .accessories-slider .box, .up-sell-products .accessories-slider label {
+  bottom: 2%;
+  top: unset;
+  right: 10px;
+  width: 15px;
+  height: 15px;
+}
+
+

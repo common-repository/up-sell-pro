@@ -1,0 +1,81 @@
+/*
+Lav donation
+*/
+.lav-boost.lav-boost-donation {
+  margin: 10px 0;
+  text-align: left;
+  border: 1px solid $lav-boost-opacity;
+  padding: 0;
+  min-width: 250px;
+  .donation-title{
+    @include adaptive-headings(22,22,22);
+    background: $lav-boost-opacity;
+    padding: 15px 20px;
+    margin-bottom: 0;
+  }
+  p.donation-description{
+    @include adaptive-p(14, 14, 14);
+    line-height: 21px !important;
+    padding: 15px 20px;
+    margin-bottom: 0;
+  }
+  .lav-boost-donation-buttons {
+    display: flex;
+    justify-content: start;
+    width: 100%;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding: 0 20px 15px 20px;
+  }
+
+  .donation-item {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+
+    input {
+      padding: 0;
+      height: initial;
+      width: initial;
+      margin-bottom: 0;
+      display: none;
+      cursor: pointer;
+    }
+    label {
+      position: relative;
+      cursor: pointer;
+      font-weight: 600 !important;
+      &:before {
+        content:'';
+        -webkit-appearance: none;
+        background-color: transparent;
+        border: 1px solid $lav-boost-main;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+        padding: 6px;
+        display: inline-block;
+        position: relative;
+        vertical-align: middle;
+        cursor: pointer;
+        margin-right: 5px;
+        margin-bottom: 3px;
+      }
+    }
+    input:checked + label:after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 3px;
+      left: 4px;
+      width: 6px;
+      height: 14px;
+      border: solid $lav-boost-main;
+      border-width: 0 2px 2px 0;
+      transform: rotate(45deg);
+    }
+  }
+}
+
+
+

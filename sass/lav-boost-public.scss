@@ -1,0 +1,53 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+/*--------------------------------------------------------------
+>>> TABLE OF CONTENTS:
+----------------------------------------------------------------
+# Base
+	- Typography
+	- Elements
+	- Links
+	- Forms
+--------------------------------------------------------------*/
+
+// Import variables and mixins.
+@import "abstracts/abstracts";
+
+/*--------------------------------------------------------------
+# Base
+--------------------------------------------------------------*/
+@import "base/base";
+
+
+/*--------------------------------------------------------------
+# Modules
+--------------------------------------------------------------*/
+@import "modules/pop-up";
+@import "modules/related";
+@import "modules/quantity-discount";
+@import "modules/bundle";
+@import "modules/views-sales";
+@import "modules/proofs";
+@import "modules/donation";
+@import "modules/gift";
+@import "modules/promo";
+@import "modules/services";
+@import "modules/accessories";
+@import "modules/shipping-label";
+
+.lav-boost {
+  clear: both;
+  .product {
+    &.disabled {
+      opacity: 0.5;
+    }
+  }
+}
+
+.section-products .swiper-wrapper .product {
+  width: 100%;
+  height: 100%;
+}
+

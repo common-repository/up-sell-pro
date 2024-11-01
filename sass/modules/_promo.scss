@@ -1,0 +1,157 @@
+/*
+Lav Checkout Promo
+*/
+.lav-boost.lav-boost-checkout-promo {
+  margin: 20px 0;
+  border: none;
+  min-width: 200px;
+  .product-card {
+    position: relative;
+    border: 1px solid $lav-boost-opacity;
+  }
+
+  .badge {
+    @include adaptive-p(14, 14, 14);
+    position: absolute;
+    left: 0;
+    top: 20px;
+    text-transform: uppercase;
+    font-weight: 500;
+    background: $lav-boost-wc__color-error;
+    color: $white;
+    padding: 3px 10px;
+    z-index: 1;
+  }
+
+  ins {
+    color: $lav-boost-wc__color-error;
+  }
+
+  .product-tumb {
+    display: block;
+    padding: 0 0 75% 0;
+    position: relative;
+    overflow: hidden;
+    img {
+      width: 100%;
+      height: 100%;
+      pointer-events: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      object-fit: cover;
+    }
+  }
+
+  .up-sell-card-title{
+    @include adaptive-headings(22, 22, 22);
+    font-weight: 600;
+  }
+
+
+  .product-details {
+    padding: 10px 20px;
+    a {
+      font-weight: 500;
+      display: block;
+      margin-bottom: 18px;
+      color: $lav-boost-main;
+      text-decoration: none;
+      transition: 0.3s;
+    }
+  }
+
+  .promo-body{
+    border: 1px solid $lav-boost-accent;
+    padding: 15px 0;
+  }
+
+  .donation-title{
+    @include adaptive-headings(18, 18, 15);
+    display: inline;
+    background: $lav-boost-accent;
+    padding: 5px 15px;
+    font-weight: 500;
+    color: $white;
+  }
+
+  .checkout-promo-description{
+    padding: 15px 15px 0 15px;
+    line-height: 21px !important;
+    margin-bottom: 0;
+  }
+
+
+  .product-bottom-details {
+    overflow: hidden;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0;
+  }
+
+  .product-price {
+    ins {
+      background: none;
+      @include adaptive-p(20, 20, 20);
+      font-weight: 500;
+    }
+    bdi {
+      @include adaptive-p(20, 20, 20);
+      font-weight: 400;
+      color: rgba(5, 32, 71, 0.60);
+      text-decoration-color: rgba(5, 32, 71, 0.60);
+    }
+  }
+
+
+  .product-links {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+
+    input {
+      padding: 0;
+      height: initial;
+      width: initial;
+      margin-bottom: 0;
+      display: none !important;
+      cursor: pointer;
+    }
+    label {
+      position: relative;
+      cursor: pointer;
+      font-family: $lav-boost-main-font;
+      &:before {
+        content:'';
+        -webkit-appearance: none;
+        background-color: transparent;
+        border: 1px solid $lav-boost-main;
+        box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset 0px -15px 10px -12px rgba(0, 0, 0, 0.05);
+        padding: 6px;
+        display: inline-block;
+        position: relative;
+        vertical-align: middle;
+        cursor: pointer;
+        margin-right: 5px;
+        margin-bottom: 3px;
+      }
+    }
+    input:checked + label:after {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 3px;
+      left: 4px;
+      width: 6px;
+      height: 14px;
+      border: solid $lav-boost-main;
+      border-width: 0 2px 2px 0;
+      transform: rotate(45deg);
+    }
+  }
+
+}

@@ -1,0 +1,66 @@
+body{
+  --lav-boost-main: #052047;
+  --lav-boost-accent: #056FDB;
+  --lav-boost-opacity: rgba(5, 32, 71, 0.08);
+  --lav-boost-wc__color-error: #E01919;
+  --lav-boost-wc__color-success: #0ABC82;
+  --lav-boost-wc__color-info: rgba(9, 28, 85, 0.1);
+  --lav-boost-wc__color-stars: #FFB600;
+  --lav-boost-shadow: var(--lav-boost-main);
+  --lav-boost-card-shadow: rgba(0, 0, 0, 0.15);
+}
+
+// main variables
+$lav-boost-main: var(--lav-boost-main);
+$lav-boost-accent: var(--lav-boost-accent);
+$lav-boost-opacity: var(--lav-boost-opacity);
+$lav-boost-wc__color-error: var(--lav-boost-wc__color-error);
+$lav-boost-wc__color-success: var(--lav-boost-wc__color-success);
+$lav-boost-wc__color-info: var(--lav-boost-wc__color-info);
+$lav-boost-wc__color-stars: var(--lav-boost-wc__color-stars);
+$lav-boost-shadow: var(--lav-boost-shadow);
+$lav-boost-card-shadow: var(--lav-boost-card-shadow);
+
+// default variables
+$color__background-body: #fff;
+$color__background-screen: #f1f1f1;
+$color__background-hr: #ccc;
+$color__background-button: #e6e6e6;
+$color__background-pre: #eee;
+$color__background-ins: #fff9c0;
+
+$color__text-screen: #21759b;
+$color__text-input: rgba(9, 28, 85, 0.1);
+$color__text-input-focus: #111;
+$color__link: #4169e1; //royalblue
+$color__link-visited: #800080; //purple
+$color__link-hover: #191970; //midnightblue
+$color__text-main: var(--lav-boost-main);
+
+$color__border-button: rgba(9, 28, 85, 0.1);
+$color__border-button-hover: rgba(9, 28, 85, 0.1);
+$color__border-button-focus: rgba(9, 28, 85, 0.1);
+$color__border-input: rgba(9, 28, 85, 0.1);
+$color__border-abbr: rgba(9, 28, 85, 0.1);
+
+// breadcrumbs variables
+$white: #fff;
+$black: #000;
+$breadcrumb-divider: quote("—");
+
+// social links   variables
+$basic-gray: #e5e5e5;
+$fb-color: #3b5998;
+$tw-color: #00aced;
+$g-plus: #dd4b39;
+$dribbble: #25D366;
+$pinterest: #cb2027;
+$insta: #bc2a8d;
+$in: #007bb6;
+$vimeo: #1ab7ea;
+$soundcloud: #ff7700;
+$vk: #5181B8;
+$ok: #ed812b;
+$def: #FF2E63;
+$telegram: #0088cc;
+$lav-main-gray: #FFFFFF99;

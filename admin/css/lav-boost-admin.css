@@ -1,0 +1,199 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+.up-sell-pro-tabs {
+    max-width: 100%;
+    padding: 10px;
+}
+
+.up-sell-pro-tabs .tabs__button-group {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 5px;
+}
+
+@media all and (max-width: 500px) {
+    .up-sell-pro-tabs .tabs__button-group {
+        flex-direction: column;
+    }
+}
+
+.up-sell-pro-tabs .tabs__toggle {
+    appearance: none;
+    background-color: rgba(5, 32, 71, 0.05);
+    border: 1px solid rgba(5, 32, 71, 0.05);
+    cursor: pointer;
+    font-weight: bold;
+    padding: 5px 10px;
+    text-transform: uppercase;
+    color: #052047;
+}
+
+.up-sell-pro-tabs .tabs__toggle.active {
+    background-color: #052047;
+    border: 1px solid #052047;
+    color: #FFFFFF;
+}
+
+.up-sell-pro-tabs .tabs__tab-panel {
+    display: none;
+}
+
+.up-sell-pro-tabs .tabs__tab-panel.active {
+    display: block;
+}
+
+.up-sell-pro-tabs .drop,
+.up-sell-pro-tabs .drop__container {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.up-sell-pro-tabs .drop {
+    align-items: center;
+    justify-content: center;
+    margin-top: 0;
+}
+
+.up-sell-pro-tabs .drop__container {
+    row-gap: 1rem;
+    width: 100%;
+}
+
+.up-sell-pro-tabs .drop__info {
+    text-align: center;
+}
+
+.up-sell-pro-tabs .drop__card,
+.up-sell-pro-tabs .drop__data {
+    display: flex;
+    align-items: center;
+    color: #052047;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.up-sell-pro-tabs .item-link {
+    text-decoration: none;
+    color: #052047;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.up-sell-pro-tabs .item-link:hover {
+    color: #056FDB;
+}
+
+.up-sell-pro-tabs .price-text, .up-sell-pro-tabs del {
+    color: rgba(5, 32, 71, 0.60);
+}
+
+.up-sell-pro-tabs .drop__card {
+    width: calc(100% - 33px);
+    justify-content: space-between;
+    padding: 10px 25px 10px 10px;
+    background-color: #fff;
+    color: #052047;
+    border: 1px solid rgba(13, 52, 57, 0.05);
+}
+
+.up-sell-pro-tabs .drop__img {
+    width: 55px;
+    height: 55px;
+    margin-right: 1rem;
+}
+
+.up-sell-pro-tabs .drop__name {
+    font-size: inherit;
+    color: inherit;
+    font-weight: 500;
+}
+
+.up-sell-pro-tabs .drop__data img {
+    width: 55px;
+    height: 55px;
+    margin-right: 1rem;
+}
+
+/**
+ * Cards
+ */
+
+.up-cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px 0;
+    gap: 10px;
+
+}
+
+.up-cards-container .content {
+    padding: 20px;
+}
+
+.up-cards-container .card {
+    width: 32%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.05);
+    text-align: center;
+    border-radius: 10px;
+    padding: 0;
+    display: block;
+    box-sizing: border-box;
+    border: none;
+}
+
+/* Style the image container */
+.up-cards-container .image {
+    width: 100%;
+    height: 200px;
+    background-color: #555;
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px 10px 0 0;
+}
+
+/* Style the image */
+.up-cards-container .image img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
+}
+
+.up-cards-container .title {
+    margin: 0;
+}
+
+.up-cards-container .description {
+    margin-bottom: 15px;
+}
+
+/* Style the card button */
+.up-cards-container .button {
+    border: none;
+    outline: none;
+    padding: 5px;
+    color: white;
+    background-color: #030B15;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 10px;
+}
+
+
+.image-content{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    position: relative;
+}
+.image-content img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

@@ -1,0 +1,26 @@
+.lav-boost{
+	a {
+		color: $lav-boost-main;
+		text-decoration: unset;
+		@include transition;
+		&:visited {
+			color: $lav-boost-accent;
+		}
+
+		&:hover,
+		&:focus,
+		&:active {
+			color: $lav-boost-accent;
+			@include transition;
+		}
+
+		&:focus {
+			outline: thin dotted;
+		}
+
+		&:hover,
+		&:active {
+			outline: 0;
+		}
+	}
+}

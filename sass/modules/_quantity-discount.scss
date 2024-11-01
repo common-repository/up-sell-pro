@@ -1,0 +1,25 @@
+/*
+Lav quantity discount
+*/
+.lav-boost.lav-quantity-discount {
+  margin: 10px 0;
+  text-align: left;
+  border: 1px solid $lav-boost-opacity;
+  padding: 0;
+
+  .discount-title{
+    @include adaptive-headings(22,22,22);
+    background: $lav-boost-opacity;
+    padding: 15px 20px;
+    margin-bottom: 0;
+  }
+  .discount-body{
+    padding: 15px 20px;
+  }
+  strong{
+    font-weight: 600;
+  }
+  .value, .symbol{
+    color: $lav-boost-accent;
+  }
+}
